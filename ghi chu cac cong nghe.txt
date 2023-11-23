@@ -1,0 +1,53 @@
+ <!-- AI .Test Check :https://gist.github.com/chris-chris/8e41e4431e808b55ba2691171f13591b
+
+const URL = "https://teachablemachine.withgoogle.com/models/3e70vOM44/";
+
+-->
+
+<!-- Chat Bot :
+https://dialogflow.cloud.google.com/
+
+-->
+<!-- Form Kit :https://formkit.com/getting-started/installation -->
+
+<!-- Char Js -->
+
+<-- mini Game : https://github.com/trantoan960/poke-memmories/blob/main/src/components/Card.vue
+
+
+<-- real-time fireBase : https://console.firebase.google.com/project/ezdgame-mmot/firestore/data/~2Fusers~2F0NH28c5bSemsoFZBHkqW
+
+<-- Youtube Api : API Key : 
+https://console.cloud.google.com/apis/library/youtube.googleapis.com?project=image-ezd
+Key1 : AIzaSyBi5VrM53RFo1Owu9xAaMy18UdRglwSxhw 
+Key2 : AIzaSyCyqTzuq9RsxReGld0mtgySd7zEDjuZ5gg
+-->
+
+<!-- Paypal : 
+Client ID :AbLBGB3RVnQp5QZ6hEGgXxNAu1v0VKydgPZD2_uOqQ_ti-ZQQrRoUXJWUCHW9OFg51fm9goR6dEHB87b
+Secret : EHce4U9QXleK126sBjW_YCHyyYHtIYxyx9Lny63G3X19rtmU_9jwLl-Vr1vgmANWHhsTMTMfZJnKOOyo
+
+
+account : sb-oldgo26025192@personal.example.com
+
+pass : 2Q.kHi-2
+
+<!--stripe :
+publishable key :pk_test_51O7Z2bBKhEIHNaDs2cUXiCGCRhcBPdkwZs8IoCmEuF033fkWRRS3qJKD3b7bxGmS0w5z0EZL5olW4vE2nXpPQGPf00uikB2WWn
+Secret key : sk_test_51O7Z2bBKhEIHNaDsph5DilBibDYP5aBAbmMW9k7P1krcEYI1ch4bj5r7gTEVFwVNemlyRlz4KjooTRSJlr5eemuQ00JFmL9aEw
+
+<!-- Re-capcha : https://www.youtube.com/watch?v=dyA_Pbtbn_E -->
+site key : 6Ld-fdsoAAAAAKyFYOAA9Ubt6RAGeT-btmEruS10
+secret key :6Ld-fdsoAAAAAKE1iALILNrpRYbwQ8PnvDxl9vE2
+
+
+<GeeTest :
+viettmts2204002@fpt.edu.vn
+Anhviet1998@
+ID :148ec00066298440749d5b68521603c6
+Key :c5931240b80ba0c8c7bfdcac85bff873
+
+
+<!-- QR code : https://www.youtube.com/watch?v=uGYZ28IVvoU -->
+
+<!-- App Chat : https://www.youtube.com/watch?v=BEnA6Y3RqZM -->
